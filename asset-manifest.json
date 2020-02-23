@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-react-IMDB/static/css/main.4c48667a.chunk.css",
+    "main.js": "/deploy-react-IMDB/static/js/main.69ebf654.chunk.js",
+    "main.js.map": "/deploy-react-IMDB/static/js/main.69ebf654.chunk.js.map",
+    "runtime-main.js": "/deploy-react-IMDB/static/js/runtime-main.d74d1ac7.js",
+    "runtime-main.js.map": "/deploy-react-IMDB/static/js/runtime-main.d74d1ac7.js.map",
+    "static/js/2.c1249fae.chunk.js": "/deploy-react-IMDB/static/js/2.c1249fae.chunk.js",
+    "static/js/2.c1249fae.chunk.js.map": "/deploy-react-IMDB/static/js/2.c1249fae.chunk.js.map",
+    "index.html": "/deploy-react-IMDB/index.html",
+    "precache-manifest.1ade4acf1d650fdc964edc3fd1cdbdfc.js": "/deploy-react-IMDB/precache-manifest.1ade4acf1d650fdc964edc3fd1cdbdfc.js",
+    "service-worker.js": "/deploy-react-IMDB/service-worker.js",
+    "static/css/main.4c48667a.chunk.css.map": "/deploy-react-IMDB/static/css/main.4c48667a.chunk.css.map",
+    "static/js/2.c1249fae.chunk.js.LICENSE.txt": "/deploy-react-IMDB/static/js/2.c1249fae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d74d1ac7.js",
+    "static/js/2.c1249fae.chunk.js",
+    "static/css/main.4c48667a.chunk.css",
+    "static/js/main.69ebf654.chunk.js"
+  ]
+}
